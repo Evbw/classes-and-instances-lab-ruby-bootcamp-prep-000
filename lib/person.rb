@@ -2,6 +2,6 @@ class person
   
 end
 
-yourmother = person.new
+adele_goldberg = person.new
 
-yourmothersmother = person.new
+alan_kay = person.new
