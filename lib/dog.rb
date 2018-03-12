@@ -2,8 +2,8 @@ class Dog
   
 end
 
-djpuffpiece = Dog.new
+fido = Dog.new
 
-admiralfloops = Dog.new
+snoopy = Dog.new
 
-coloneldroops = Dog.new
+lassie = Dog.new
