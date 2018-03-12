@@ -1,9 +1,9 @@
-class dog
+class Dog
   
 end
 
-djpuffpiece = dog.new
+djpuffpiece = Dog.new
 
-admiralfloops = dog.new
+admiralfloops = Dog.new
 
-coloneldroops = dog.new
+coloneldroops = Dog.new
